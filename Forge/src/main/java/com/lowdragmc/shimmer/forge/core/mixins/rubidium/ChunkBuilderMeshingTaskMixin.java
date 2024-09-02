@@ -28,6 +28,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
  * @implNote ChunkRenderRebuildTaskMixin
  */
 @Mixin(ChunkBuilderMeshingTask.class)
+
 public abstract class ChunkBuilderMeshingTaskMixin {
     @Shadow(remap = false)
     @Final
