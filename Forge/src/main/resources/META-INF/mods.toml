@@ -4,14 +4,14 @@ license="MIT"
 issueTrackerURL="https://github.com/Low-Drag-MC/Shimmer/issues"
 
 [[mods]]
-modId="shimmer"
+modId="shimmer-forge"
 version="${version}"
 displayName="Shimmer"
 displayURL="https://github.com/Low-Drag-MC/Shimmer"
 logoFile="logo_full.png"
 credits="hypherionsa"
-authors="KilaBash, zomb_676"
-description='''Shimemr, make rendering vivid'''
+authors="KilaBash, zomb_676, RetroKrasher (fork)"
+description='''Makes lighting rendering vivid and colorful'''
 
 [[dependencies.shimmer]]
 modId="forge"
