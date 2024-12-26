@@ -13,21 +13,21 @@
     "oculus.ShaderPropertiesMixin",
     "oculus.ShaderStorageBufferHolderMixin",
     "oculus.StandardMacrosMixin",
-    "rubidium.BlockRendererMixin",
-    "rubidium.ChunkBuilderMeshingTaskMixin",
-    "rubidium.FluidRendererMixin",
-    "rubidium.RenderSectionManagerAccessor",
-    "rubidium.RenderSectionMixin",
-    "rubidium.ShaderChunkRendererMixin",
-    "rubidium.ShaderLoaderMixin",
-    "rubidium.SodiumWorldRendererMixin"
+    "sodium.BlockRendererMixin",
+    "sodium.ChunkBuilderMeshingTaskMixin",
+    "sodium.FluidRendererMixin",
+    "sodium.RenderSectionManagerAccessor",
+    "sodium.RenderSectionMixin",
+    "sodium.ShaderChunkRendererMixin",
+    "sodium.ShaderLoaderMixin",
+    "sodium.SodiumWorldRendererMixin"
   ],
   "mixins": [
     "oculus.ProgramSetMixin",
-    "rubidium.CompactChunkVertexMixin",
-    "rubidium.ModelQuadUtilMixin",
-    "rubidium.ShaderStorageBufferAccessor",
-    "rubidium.VanillaLikeChunkVertexMixin"
+    "sodium.CompactChunkVertexMixin",
+    "sodium.ModelQuadUtilMixin",
+    "sodium.ShaderStorageBufferAccessor",
+    "sodium.VanillaLikeChunkVertexMixin"
   ],
   "injectors": {
     "defaultRequire": 1
